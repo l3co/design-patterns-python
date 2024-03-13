@@ -6,16 +6,16 @@ Este repositório contém exemplos retirados do curso https://www.udemy.com/cour
 
 ### Padrões implementados
 
-* [Creational](https://github.com/l3co/design-patterns-python/tree/main/implementation/creational)
+#### [Creational](https://github.com/l3co/design-patterns-python/tree/main/implementation/creational)
   * factory
   * builder
   * singleton
     
-* [Structural](https://github.com/l3co/design-patterns-python/tree/main/implementation/structural)
+#### [Structural](https://github.com/l3co/design-patterns-python/tree/main/implementation/structural)
   * facade
   * proxy
  
-* [Behavioral](https://github.com/l3co/design-patterns-python/tree/main/implementation/behavioral)
+#### [Behavioral](https://github.com/l3co/design-patterns-python/tree/main/implementation/behavioral)
   * command
   * observer
   * template_methods
